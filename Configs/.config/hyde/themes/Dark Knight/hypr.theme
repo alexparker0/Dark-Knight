@@ -5,7 +5,7 @@ $ICON_THEME = Dark-Knight
 $COLOR_SCHEME=prefer-dark
 $CURSOR_THEME = Breeze-Dark-Yellow
 $CURSOR_SIZE=20
-$CODE_THEME=Tokyo Night Storm
+$CODE_THEME=Batman Mono Theme
 
 exec = gsettings set org.gnome.desktop.interface icon-theme '$ICON_THEME'
 exec = gsettings set org.gnome.desktop.interface gtk-theme '$GTK_THEME'
