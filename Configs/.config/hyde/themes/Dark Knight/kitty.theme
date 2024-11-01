@@ -1,1 +1,44 @@
+$HOME/.config/kitty/theme.conf|killall -SIGUSR1 kitty
+# vim:ft=kitty
+background #1b1d1e
+foreground #6e6e6e
+selection_background #4d4f4c
+selection_foreground #1b1d1e
+url_color #73daca
+cursor #fcee0b
+cursor_text_color #24283b
 
+# Tabs
+active_tab_background #1b1d1e
+active_tab_foreground #6e6e6e
+inactive_tab_background #1b1d1e
+inactive_tab_foreground #6e6e6e
+#tab_bar_background #1d202f
+
+# Windows
+active_border_color #dae028
+inactive_border_color #797d15
+
+# normal
+color0 #1b1d1e
+color1 #e6db43
+color2 #c8be46
+color3 #f3fd21
+color4 #737074
+color5 #737271
+color6 #615f5e
+color7 #c5c5be
+
+# bright
+color8 #505354
+color9 #fff68d
+color10 #fff27c
+color11 #feed6c
+color12 #909495
+color13 #9a999d
+color14 #a2a2a5
+color15 #dadad5
+
+# extended colors
+color16 #ff9e64
+color17 #db4b4b
